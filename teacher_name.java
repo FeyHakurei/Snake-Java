@@ -10,10 +10,10 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 
 
-public class gonzaloarandadti extends Agente {
+public class teacher_name extends Agente {
 
 		
-	public gonzaloarandadti() {
+	public teacher_name() {
 		super();
 	}
 	
